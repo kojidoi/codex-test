@@ -1,0 +1,13 @@
+{
+  "name": "codex-test-game",
+  "version": "1.0.0",
+  "description": "Simple Breakout Game",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1",
+    "jsdom": "^23.0.0"
+  },
+  "type": "module"
+}
